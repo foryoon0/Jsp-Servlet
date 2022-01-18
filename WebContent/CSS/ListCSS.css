@@ -1,0 +1,46 @@
+@charset "UTF-8";
+
+
+
+*{
+    box-sizing: border-box;
+    margin: 0auto;
+
+    
+}
+
+
+.main{
+    border: 1px solid black;
+    text-align: center;
+}
+
+section{
+    text-align: center;
+    border: 1px solid black;
+    place-items: center;
+}
+
+table{
+    align-items: center;
+    margin: 0 auto;
+    text-align: center;
+    border: 1px solid black;
+}
+
+
+th{
+    background-color: yellowgreen;
+    border: 1px solid black;
+
+}
+
+td{
+    background-color:wheat;
+}
+
+
+a:link { color: black; text-decoration: none;}
+a:visited { color: black; text-decoration: none;}
+a:hover { color: purple; text-decoration: underline;}
+
